@@ -1,0 +1,21 @@
+<div class="landing">
+    <div class="container">
+        <div class="image">
+            <img src="./images/hero-2.jpg" alt="">
+            <ul>
+                <li><a href="#">contact</a></li>
+                <li><a href="#">pricing</a></li>
+                <li><a href="#">portfolio</a></li>
+                <li><a href="#">log</a></li>
+                <li><a href="#">profile</a></li>
+                <li><a href="#">home</a></li>
+                <div class="clear"></div>
+            </ul>
+            <div class="clear"></div>
+            <div class="text">
+                <h1>hello , world!</h1>
+                <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.<br>Duis mollis, est non commodo luctus.</p>
+            </div>
+        </div>
+    </div>
+</div>
